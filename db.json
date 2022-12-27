@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "email": "dd@gmail.com",
+      "password": "$2a$10$OV.yoaPir8C49bTCULujOOryJ.K1TVxQosLhnLB774z/9u.agY1NO",
+      "nickName": "哈囉",
+      "id": 9
+    },
+    {
+      "email": "cookieSSS@gmail.com",
+      "password": "$2a$10$AcSlrUoP37m2wOXw23vkoupDS2gJOe5psZuS0iVk/DScPtygVNeOG",
+      "nickName": "cookie",
+      "id": 10
+    },
+    {
+      "email": "aa@gmail.com",
+      "password": "$2a$10$.ouwmaad.KjLUN7euu3igOnCdvpuenH1wAcFXDh.0ypoor2ORvkCG",
+      "nickName": "鴨鴨",
+      "id": 11
+    },
+    {
+      "email": "xx@gmail.com",
+      "password": "$2a$10$gZ9uoLYUnk894/YlaJz5Ee2ZgQkxOXG9s.u.x7hY1DiKNfNTmCNlW",
+      "nickName": "xx",
+      "id": 19
+    },
+    {
+      "email": "ss@gmail.com",
+      "password": "$2a$10$fpury9rXGMAjf1P.NbUA1OXLeqDigPc/dW1Lt2z4kxuzuKMw95Mjq",
+      "nickName": "ss",
+      "id": 20
+    },
+    {
+      "email": "bb@gmail.com",
+      "password": "$2a$10$PvUcGhggrub9g.DkdbYC/OK1BdUTT.4/yxOT8yqIRrFXGvPEXKt/G",
+      "nickName": "bb",
+      "id": 21
+    },
+    {
+      "email": "cc@gmail.com",
+      "password": "$2a$10$dADT1Pa2pTkfvHT1vV7kYOg9IN04O78d8iMJhF4PgwS9ikPWE38NW",
+      "nickName": "cc",
+      "id": 22
+    },
+    {
+      "email": "gg@gmail.com",
+      "password": "$2a$10$QztsnTGjZeJtAGt7nMkD1.kqfovppuiFaAmRhdYZaCcORGEpromhO",
+      "nickName": "gg",
+      "id": 23
+    },
+    {
+      "email": "ll@gmail.com",
+      "password": "$2a$10$hQk2jo/ZNbbEWnfB69SfnOkbTigMQ6lHg1vtyfLAX29l9O7b5YsN6",
+      "nickName": "ll",
+      "id": 24
+    },
+    {
+      "email": "cookiesss@gmail.com",
+      "password": "$2a$10$vXobeLJ04cTPHXLobuqu/eINdWQXCQPLG9nylv7VVukb5Azr3lfSS",
+      "nickName": "餅乾",
+      "id": 25,
+      "admin": true
+    }
+  ],
+  "views": [
+    {
+      "title": "槓子寮砲台",
+      "body": "槓子寮砲台位於基隆東北方，信義區與中正區交界處的山上，從清代存有至今，西元1895年，清、日訂定馬關條約，清廷割讓台灣給日本人，日治時期(1900年)曾經整修過防禦工事，台灣光復後也曾有過守軍，後來荒置多年，目前為二級古蹟，槓子寮砲台區的遺跡保存相當完整，有崗哨、交誼廳、營舍、指揮所、碉堡、彈藥庫、砲盤區等設施，更特別的是砲軌為360度，可讓砲台選擇發射的角度，為基隆五大砲台區中唯一僅有，另外，觀測台與砲盤區間有「通話孔」，也是槓子寮砲台最大的特色之一，沿著林木蓊鬱的石階步道而上，可看到基隆嶼及觀賞八斗子漁港夕照，景色優美。",
+      "imgUrl": "https://img3.okgo.tw/titlepic/c461_1.jpg",
+      "id": 3
+    },
+    {
+      "title": "棉花嶼",
+      "body": "棉花嶼是東南高、西北低的地勢，北部屬於台地地形，是一座由灰黑色橄欖石、古輝銅石和玄武岩所組成的火山島，東西長度約為530公尺，南北則為800公尺，海拔最高是61公尺，周長為2200公尺。棉花嶼全島皆被火山熔岩給覆蓋，堅硬多孔的岩脈因具有較強的抗風化與抗侵蝕性質，經年累月下形成了岩骨，和岸邊的海蝕洞成為此島嶼的特殊地質景觀。棉花嶼幾乎都是平直的斷崖，只有西岸西北角的一個小灣允許登陸，但又因島嶼與岩礁之間距離太短，且風勢太強大，船隻停泊有相當高的難度。棉花嶼的東側還有一座高25公尺岩礁佇立在海面上，稱為「屏風岩」。",
+      "imgUrl": "https://img3.okgo.tw/titlepic/c2704_1.jpg",
+      "id": 4
+    },
+    {
+      "title": "基隆海洋廣場",
+      "body": "「海洋廣場」為基隆港內側海域的海上原木平台，共耗資一億六千九百萬元整建，由西班牙文森建築師設計建造，並於民國98年正式啟用，為兼具環境美化與休閒遊憩功能的新興的觀光海洋廣場。海洋廣場沿著基隆港邊而建，三面環海，港灣深入基隆市區，可遠眺遠處山景，是極佳的賞景處。廣場上以木製礁石和流線型的波浪景觀藝術象徵海洋意象；夜晚燈光唯美，還有街頭藝人表演，不定時還會舉辦活動，為民眾約會、談天的新興場所。",
+      "imgUrl": "https://img3.okgo.tw/titlepic/c2893_1.jpg",
+      "id": 5
+    },
+    {
+      "title": "正濱漁港",
+      "body": "日據時期曾為台灣第一大港的正濱漁港就位在基隆和平島的南方，正濱漁港又稱為基隆漁港，是早期帶動基隆漁港興盛的主要功臣，而在漁船噸位逐漸加大之後不堪負荷，於是又興建了八斗子漁港。現在的正濱漁港雖然已無早期大小漁船進出的盛況，但是市政府將漁港轉型為以休閒懷舊為主的觀光碼頭，假日有許多釣客在岸邊垂釣，逐漸發展為適合全家大小出遊的景點，希望在不同的方向上重現以往的繁榮景象。",
+      "imgUrl": "https://img3.okgo.tw/titlepic/b2703_1.jpg",
+      "id": 6
+    }
+  ],
+  "bookmarks": [
+    {
+      "userId": "25",
+      "viewId": "3",
+      "id": "253"
+    },
+    {
+      "userId": "19",
+      "viewId": "3",
+      "id": "193"
+    },
+    {
+      "userId": "19",
+      "viewId": "4",
+      "id": "194"
+    },
+    {
+      "userId": "25",
+      "viewId": "6",
+      "id": "256"
+    }
+  ]
+}
